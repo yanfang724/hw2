@@ -4,7 +4,7 @@
 	<artifactId>hw0-yanfang</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<scm>
-		<tag>test</tag>
+		<tag>test2</tag>
 		<developerConnection>scm:git:git@github.com:yanfang724/hw2.git</developerConnection>
 		<connection>scm:git:git://github.com/yanfang724/hw2.git</connection>
 	</scm>
