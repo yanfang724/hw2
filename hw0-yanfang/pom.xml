@@ -7,6 +7,7 @@
 		<tag>test2</tag>
 		<developerConnection>scm:git:git@github.com:yanfang724/hw2.git</developerConnection>
 		<connection>scm:git:git://github.com/yanfang724/hw2.git</connection>
+		<url>scm:git:git://github.com/yanfang724/hw2.git</url>
 	</scm>
 	<repositories>
 		<repository>
